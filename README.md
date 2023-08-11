@@ -3,8 +3,6 @@
 
 Are you a cycling enthusiast looking to elevate your riding experience? Introducing our innovative Ride Segments Finder, a cutting-edge solution harnessing the power of the Strava API to revolutionize the way you approach your cycling adventures.
 
-![developer coding task](https://i.imgur.com/eIKMmms.png)
-
 ## Stack
 
  - Symfony
